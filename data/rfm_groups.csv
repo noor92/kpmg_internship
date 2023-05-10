@@ -1,0 +1,12 @@
+customer_category,F_quartile,R_quartile,M_quartile
+Almost Lost Customer,1,1,1
+Becoming Loyal,2,4,1
+Evasive Customer,1,1,1
+High Risk Customer,1,2,1
+Late Bloomer,1,3,1
+Losing Customer,1,2,1
+Lost Customer,1,1,1
+Platinum Customer,4,4,4
+Potential Customer,2,3,1
+Recent Customer,1,4,1
+Very Loyal,3,4,2
