@@ -29,6 +29,7 @@ This is found in python in the *data_quality* notebook,
 This is found in python in the *data_analysis* notebook, 
 - Feature engineering: create new features and aggregate data
 - Data transformations: normalize and scale data for modeling
+- Calculating metrics such as customer lifetime value, loyalty and churn
 - Apply machine learning algorithms for customer segmentation and targeting
 - Evaluate model (RFM - Recency, Frequency, Monetary) performance and refine as necessary
 
