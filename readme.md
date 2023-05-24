@@ -11,6 +11,7 @@ Under the submission folder:
 - `communicating_data_quality.pdf`:  Jupyter notebook for the data quality assessment
 - `presentation.pptx`: PowerPoint presentation outlining our approach and findings
 - `dashboard.twb`: Tableau dashboard summarizing the analysis
+-`KPMG_data_final` : an excel file showing how the RMF analysis can be done using excel. 
 
 ## Phases
 
@@ -43,6 +44,7 @@ This is found in the presentation and Tableau Dashboard
 
 - A PowerPoint presentation detailing our approach and findings for each of the 3 phases
 - A Tableau dashboard displaying data summary and analysis results (max. 3 views/tabs)
+- An excel file showing how an RFM analysis can be done in excel. 
 
 ## Insights
 
@@ -58,3 +60,5 @@ Access the Tableau dashboard [here](https://public.tableau.com/app/profile/nour5
 ## Dependencies
 
 You can install these dependencies using pip: `pip install pandas scipy statsmodels numpy seaborn matplotlib scikit-learn pingouin`
+  
+  
