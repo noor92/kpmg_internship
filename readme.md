@@ -61,4 +61,3 @@ Access the Tableau dashboard [here](https://public.tableau.com/app/profile/nour5
 
 You can install these dependencies using pip: `pip install pandas scipy statsmodels numpy seaborn matplotlib scikit-learn pingouin`
   
-  
